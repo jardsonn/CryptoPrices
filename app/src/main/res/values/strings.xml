@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Crypto Prices</string>
+    <string name="volume_in_24_hours">Volume (24h):</string>
+    <string name="loading">Carregando…</string>
+    <string name="description_error">Error ao carregar dados</string>
+    <string name="default_error_message">Ocorreu um erro, por favor verifique sua conexão e tente novamente mais tarde.</string>
+</resources>
